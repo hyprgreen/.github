@@ -10,10 +10,6 @@ The Hyprgreen Project is Licensed under the Apache v2 License, however you may b
 Please read the Code of Conduct before contributing to hyprgreen, (credit to ublue-os).
 ```
 
-### How we build Hyprgreen Images
-https://github.com/orgs/hyprgreen/packages
-![Flowchat](https://raw.githubusercontent.com/hyprgreen/.github/main/Hyprgreen-FlowChart.webp)
-
 ### How to Install Hyprgreen Via Rebase
 Run one of the following Commands rebase to hyprgreen: 
 
@@ -34,3 +30,6 @@ sudo rpm-ostree rebase ostree-unverified-registry:ghcr.io/hyprgreen/libvirt:nigh
 sudo rpm-ostree rebase ostree-unverified-registry:ghcr.io/hyprgreen/libvirt-nvidia:nightly
 ```
 
+### How we build Hyprgreen Images
+https://github.com/orgs/hyprgreen/packages
+![Flowchat](https://raw.githubusercontent.com/hyprgreen/.github/main/Hyprgreen-FlowChart.webp)
