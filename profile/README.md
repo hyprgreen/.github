@@ -1,13 +1,18 @@
 # hyprgreen
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) [![Issues](https://img.shields.io/github/issues/hyprgreen/main?color=pink&style=plastic')](https://github.com/hyprgreen/main/issues)
 
- a experimental custom fedora silverblue OCI image based on ublue-os with the hyprland wayland compositor 
+A custom experimental [OCI](https://opencontainers.org/) [image](https://manpages.ubuntu.com/manpages/jammy/en/man5/containers-dockerfile.5.html) for [ostree-ed](https://ostreedev.github.io/ostree/) [fedora](https://fedoraproject.org/) like [silverblue](https://silverblue.fedoraproject.org/) & [kinote](https://kinoite.fedoraproject.org/) based on [ublue-os](https://github.com/ublue-os/) with the [hyprland](https://hyprland.org/) [wayland](https://wayland.freedesktop.org/) compositor.
 
+### Notice!
+```txt
+Hyprgreen is in no way supported by, or a part of: Fedora project, UBlue-OS, Hyprland or any other Software or Project mentioned.
+The Hyprgreen Project is Licensed under the Apache v2 License, however you may be subject to other Licenses from other software incuded.
+Please read the Code of Conduct before contributing to hyprgreen, (credit to ublue-os).
+```
 
 ### How we build Hyprgreen Images
 https://github.com/orgs/hyprgreen/packages
 ![Flowchat](https://raw.githubusercontent.com/hyprgreen/.github/main/Hyprgreen-FlowChart.webp)
-
 
 ### How to Install Hyprgreen Via Rebase
 Run one of the following Commands rebase to hyprgreen: 
