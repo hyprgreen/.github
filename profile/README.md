@@ -1,5 +1,5 @@
 # hyprgreen
-[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) [![Issues](https://img.shields.io/github/issues/hyprgreen/main?color=pink&style=plastic')](https://github.com/hyprgreen/main/issues)
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) [![Issues](https://img.shields.io/github/issues/hyprgreen/issuses?color=pink&style=plastic')](https://github.com/hyprgreen/issuses/issues)
 
 A custom experimental [OCI](https://opencontainers.org/) [image](https://manpages.ubuntu.com/manpages/jammy/en/man5/containers-dockerfile.5.html) for [ostree-ed](https://ostreedev.github.io/ostree/) [fedora](https://fedoraproject.org/) like [silverblue](https://silverblue.fedoraproject.org/) & [kinote](https://kinoite.fedoraproject.org/) based on [ublue-os](https://github.com/ublue-os/) with the [hyprland](https://hyprland.org/) [wayland](https://wayland.freedesktop.org/) compositor.
 
