@@ -14,12 +14,24 @@ Please read the Code of Conduct before contributing to hyprgreen, (credit to ubl
 Run one of the following Commands rebase to hyprgreen: 
 
 Main: For AMD & Intel users [![Docker](https://github.com/hyprgreen/main/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/hyprgreen/main/actions/workflows/docker-publish.yml) ![Commit Activity](https://img.shields.io/github/commit-activity/w/hyprgreen/main?color=teal&label=Commit%20Activity&logo=github)![Latest release date](https://img.shields.io/github/release-date/hyprgreen/main?color=pink&label=Latest%20Release%20Date&logo=github)  ![Latest Tag](https://img.shields.io/github/v/tag/hyprgreen/main?color=lightblue&label=Latest%20Tag&logo=git&logoColor=lightblue&sort=semver)
+
+Stable :
 ```sh
 sudo rpm-ostree rebase ostree-unverified-registry:ghcr.io/hyprgreen/main:latest
 ```
+Skate fast eat ass :
+```sh
+sudo rpm-ostree rebase ostree-unverified-registry:ghcr.io/hyprgreen/main:nightly
+```
 NVidia: For NVidia users [![Docker](https://github.com/hyprgreen/nvidia/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/hyprgreen/nvidia/actions/workflows/docker-publish.yml) ![Latest release date](https://img.shields.io/github/release-date/hyprgreen/nvidia?color=pink&label=Latest%20Release%20Date&logo=github) ![Latest Tag](https://img.shields.io/github/v/tag/hyprgreen/nvidia?color=lightblue&label=Latest%20Tag&logo=git&logoColor=lightblue&sort=semver)  
+
+Stable :
 ```sh
 sudo rpm-ostree rebase ostree-unverified-registry:ghcr.io/hyprgreen/nvidia:latest
+```
+Skate fast eat ass :
+```sh
+sudo rpm-ostree rebase ostree-unverified-registry:ghcr.io/hyprgreen/nvidia:nightly
 ```
 ( CURRENTLY IN TESTING! ) LibVirt: For AMD & Intell users That need LibVirtd [![Docker](https://github.com/hyprgreen/libvirt/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/hyprgreen/libvirt/actions/workflows/docker-publish.yml) ![Commit Activity](https://img.shields.io/github/commit-activity/w/hyprgreen/libvirt?color=teal&label=Commit%20Activity&logo=github) ![Latest release date](https://img.shields.io/github/release-date/hyprgreen/libvirt?color=pink&label=Latest%20Release%20Date&logo=github) ![Latest Tag](https://img.shields.io/github/v/tag/hyprgreen/libvirt?color=lightblue&label=Latest%20Tag&logo=git&logoColor=lightblue&sort=semver)  
 ```sh
