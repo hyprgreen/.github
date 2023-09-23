@@ -8,6 +8,8 @@ A custom experimental [OCI](https://opencontainers.org/) [image](https://manpage
 Hyprgreen is in no way supported by, or a part of: Fedora project, UBlue-OS, Hyprland or any other Software or Project mentioned.
 The Hyprgreen Project is Licensed under the Apache v2 License, however you may be subject to other Licenses from other software incuded.
 Please read the Code of Conduct before contributing to hyprgreen, (credit to ublue-os).
+
+Due to burnout the Hyprgreen Project is no longer in active work, updates will be slow but assuming nothing breaks it should just work (and be automaticly up-to-date) for the most part.   
 ```
 
 ### How to Install Hyprgreen Via Rebase
