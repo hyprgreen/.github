@@ -22,7 +22,7 @@ Main: For AMD & Intel users
 ```sh
 sudo rpm-ostree rebase ostree-unverified-registry:ghcr.io/hyprgreen/main:latest
 ```
-NVidia: For NVidia users
+NVidia: For NVidia users (May not work)
  [![Docker](https://github.com/hyprgreen/nvidia/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/hyprgreen/nvidia/actions/workflows/docker-publish.yml) ![Latest release date](https://img.shields.io/github/release-date/hyprgreen/nvidia?color=pink&label=Latest%20Release%20Date&logo=github) ![Latest Tag](https://img.shields.io/github/v/tag/hyprgreen/nvidia?color=lightblue&label=Latest%20Tag&logo=git&logoColor=lightblue&sort=semver)  
 
 ```sh
